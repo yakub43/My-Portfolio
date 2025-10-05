@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "1.0.0",
-  "homepage": "https://your-username.github.io/yakub43"
+  "homepage": "https://yakub43.github.io/my-portfolio"
   "private": true,
   "dependencies": {
     "react": "^18.0.0",
